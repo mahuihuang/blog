@@ -1,4 +1,6 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
+languageCode = 'zh-CN'
 title = 'My New Hugo Site'
 theme = 'paper'
+enableRobotsTXT=true
+timeZone="Asia/Shanghai"
