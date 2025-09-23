@@ -1,6 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'zh-CN'
-title = 'My New Hugo Site'
+title = '驽马不舍'
 theme = 'paper'
 enableRobotsTXT=true
 timeZone="Asia/Shanghai"
+[params]
+  github = 'mahiuhuang'
