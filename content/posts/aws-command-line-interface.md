@@ -1,6 +1,6 @@
 +++
 date = '2025-09-23T21:46:29+08:00'
-draft = true
+draft = false
 title = 'AWS Command Line Interface'
 +++
 
