@@ -2,6 +2,7 @@
 date = '2025-09-22T21:38:51+08:00'
 draft = false
 title = 'Jumpserver'
+categories= ["devops"]
 +++
 # Jumpserver
 

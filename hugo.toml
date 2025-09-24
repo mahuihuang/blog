@@ -4,5 +4,11 @@ title = '驽马不舍'
 theme = 'paper'
 enableRobotsTXT=true
 timeZone="Asia/Shanghai"
+
+[[menu.main]]
+name = "运维" # 菜单项的名称
+url = "/categories/devops/"
+weight = 2
+
 [params]
   github = 'mahuihuang'

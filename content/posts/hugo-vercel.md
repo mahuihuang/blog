@@ -2,6 +2,7 @@
 date = '2025-09-24T11:53:36+08:00'
 draft = false
 title = '如何使用 Vercel 托管 Hugo 项目'
+categories= ["devops"]
 +++
 
 ## 简介

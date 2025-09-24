@@ -2,6 +2,7 @@
 date = '2025-09-23T21:46:29+08:00'
 draft = false
 title = 'AWS Command Line Interface'
+categories= ["devops"]
 +++
 
 ## 为什么出现 AWS CLI ？

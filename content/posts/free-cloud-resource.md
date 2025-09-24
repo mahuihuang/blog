@@ -2,6 +2,7 @@
 date = '2025-09-22T22:57:30+08:00'
 draft = false
 title = 'Free Cloud Resource'
+categories= ["devops"]
 +++
 
 # 一些免费的云资源
