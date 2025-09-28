@@ -9,6 +9,9 @@ timeZone="Asia/Shanghai"
 name = "运维" # 菜单项的名称
 url = "/categories/devops/"
 weight = 2
-
+[[menu.main]]
+name = "linux" # 菜单项的名称
+url = "/categories/linux/"
+weight = 2
 [params]
   github = 'mahuihuang'
